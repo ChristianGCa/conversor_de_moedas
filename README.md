@@ -15,7 +15,7 @@ Um aplicativo Flutter simples para converter valores entre Reais (BRL), Dólares
 * [Flutter](https://flutter.dev/) - Framework para desenvolvimento da interface do usuário.
 *   [Dart](https://dart.dev/) - Linguagem de programação utilizada pelo Flutter.
 *   [http](https://pub.dev/packages/http) - Pacote para fazer requisições HTTP à API de taxas de câmbio.
-*   [API HG Brasil Finance](https://hgbrasil.com/status/finance) -  API utilizada para obter as taxas de câmbio.
+*   [API HG Brasil Finance](https://hgbrasil.com/status/finance) -  API utilizada para obter as taxas de câmbio atualizadas.
 
 ## Capturas de tela
 
